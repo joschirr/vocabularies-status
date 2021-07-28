@@ -4,19 +4,19 @@
     "url": "http://vocabularies.coar-repositories.org/",
     "icon": "https://favicons.githubusercontent.com/vocabularies.coar-repositories.org",
     "slug": "coar-vocabularies",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 179,
-    "timeWeek": 315,
-    "timeMonth": 315,
+    "timeDay": 220,
+    "timeWeek": 308,
+    "timeMonth": 313,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2021-07-28": 0
+      "2021-07-28": 5
     }
   }
 ]
