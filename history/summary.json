@@ -4,7 +4,7 @@
     "url": "http://vocabularies.coar-repositories.org/",
     "icon": "https://favicons.githubusercontent.com/vocabularies.coar-repositories.org",
     "slug": "coar-vocabularies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 2103,
     "timeMonth": 755,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   }
 ]
